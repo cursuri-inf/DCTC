@@ -23,10 +23,12 @@ Compilatorul este pdfLaTeX (implicit în Overleaf). Ce înseamnă fiecare pachet
 
 ## Notebook-urile în Colab
 
-| Șablonul | Deschide în Colab |
-| --- | --- |
-| Analiza datelor echipei (temele 1–6) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/DCTC/blob/main/notebooks/analiza-sablon.ipynb) |
-| Explorarea numerică a temei (temele 7–10) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/DCTC/blob/main/notebooks/explorare-sablon.ipynb) |
+Ambele șabloane sunt pentru voi, studenții; alegeți-l pe cel al temei echipei. Din el porniți notebook-ul individual de la L5 (`notebooks/l5.ipynb`, în depozitul personal) și notebook-ul echipei (`notebooks/analiza.ipynb`).
+
+| Șablonul | Pentru | Deschide în Colab |
+| --- | --- | --- |
+| Analiza datelor echipei | echipele cu temele 1–6 (date publice, dintr-un CSV) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/DCTC/blob/main/notebooks/analiza-sablon.ipynb) |
+| Explorarea numerică a temei | echipele cu temele 7–10 (date generate în notebook) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/DCTC/blob/main/notebooks/explorare-sablon.ipynb) |
 
 1. Butonul deschide șablonul în Colab; *File > Save a copy in Drive* face copia voastră, pe care lucrați.
 2. *Runtime > Run all*: șablonul rulează în mai puțin de un minut pe planul gratuit.
