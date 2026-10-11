@@ -23,19 +23,19 @@ Compilatorul este pdfLaTeX (implicit în Overleaf). Ce înseamnă fiecare pachet
 
 ## Notebook-urile în Colab
 
-Ambele șabloane sunt pentru voi, studenții; alegeți-l pe cel al temei echipei. Din el porniți notebook-ul individual de la L5 (`notebooks/l5.ipynb`, în depozitul personal) și notebook-ul echipei (`notebooks/analiza.ipynb`).
+Ambele șabloane sunt pentru studenți; alegeți-l pe cel al temei echipei. Din el porniți notebook-ul individual de la L5 (`notebooks/l5.ipynb`, în depozitul personal) și notebook-ul echipei (`notebooks/analiza.ipynb`).
 
 | Șablonul | Pentru | Deschide în Colab |
 | --- | --- | --- |
 | Analiza datelor echipei | echipele cu temele 1–6 (date publice, dintr-un CSV) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/DCTC/blob/main/notebooks/analiza-sablon.ipynb) |
 | Explorarea numerică a temei | echipele cu temele 7–10 (date generate în notebook) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cursuri-inf/DCTC/blob/main/notebooks/explorare-sablon.ipynb) |
 
-1. Butonul deschide șablonul în Colab; *File > Save a copy in Drive* face copia voastră, pe care lucrați.
+1. Butonul deschide șablonul în Colab; *File > Save a copy in Drive* face copia personală, pe care lucrați.
 2. *Runtime > Run all*: șablonul rulează în mai puțin de un minut pe planul gratuit.
 3. Schimbați parametrii din secțiunea 1 și textele marcate „De completat”; la temele 1–6, `URL_DATE` devine adresa raw a fișierului din `data/` al depozitului echipei.
 4. Notebook-ul se salvează în GitHub din Colab: *File > Save a copy in GitHub* (pentru un depozit privat, întâi *Tools > Settings > GitHub*, accesul la depozitele private).
 
-În notebook nu intră parole, chei sau căi de pe calculatorul vostru.
+În notebook nu intră parole, chei sau căi de pe calculatorul personal.
 
 ## Licență
 
